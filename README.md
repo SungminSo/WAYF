@@ -1,14 +1,14 @@
 # WAYF
 
-<img src="./Medias/wayf.png" width=256 height=256 />
+<img src="./Medias/wayf.jpg" width=256 height=256 />
 
 2019 AIU Summer DevCamp Project
 
 
 ## Introduce
 
-<img align="left" src="./Medias/SSU_symbol_basic_png.png" width=256 height=256 />
-<img align="right" src="./Medias/HYU_symbol_basic_png.png" width=256 height=256 />
+<img align="left" src="./Medias/SSU_symbol_basic_png.jpg" width=256 height=256 />
+<img src="./Medias/HYU_symbol_basic_png.png" width=256 height=256 />
 
 
 ## Project
