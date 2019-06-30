@@ -1,15 +1,17 @@
 # WAYF
 
-<img src="./Medias/wayf.jpg" width=256 height=256 />
+<img src="./Medias/wayf.jpg" />
 
 2019 AIU Summer DevCamp Project
 
 
 ## Introduce
 
-<img align="left" src="./Medias/SSU_symbol_basic_png.jpg" width=256 height=256 />
-<img src="./Medias/HYU_symbol_basic_png.png" width=256 height=256 />
+<img align="left" src="./Medias/SSU_symbol_basic_png.jpg" width=128 height=128 />
+<img src="./Medias/HYU_symbol_basic_png.png" width=128 height=128 />
 
+AIU is an AI study group Union established in 2019 to interact with AI study subgroups of other universities.
+It began as an association of Soongsil University and Hanyang University, and will later join forces with other universities.
 
 ## Project
 
