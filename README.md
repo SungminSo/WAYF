@@ -23,4 +23,7 @@ Please enjoy this project for fun
 
 ## Team
 
-  * [Sungmin So](https://github.com/SungminSo)
+  * [SungminSo](https://github.com/SungminSo)
+  * [lhju4e](https://github.com/lhju4e)
+  * [ploffer11](https://github.com/ploffer11)
+  * [estela19](https://github.com/estela19)
